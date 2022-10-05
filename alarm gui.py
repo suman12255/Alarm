@@ -10,7 +10,6 @@ root.title("Alarm")
 root.geometry("550x350")
 
 
-
 mixer.init()
 
 def th():
